@@ -23,6 +23,6 @@ the profit margins are ok and not over powered.  There are a few other factories
 a few specific to Prospercraft.  You should be able to trade with our factories without having the mod installed, but if you want to build
 any of them you will need it on your client.
 
-I will try to keep this updated, but the modpack is also available on www.prospercraft.com's discord server.  Go to the website and sign
+I will try to keep this updated, but the modpack is also available on www.prospercraft.com discord server.  Go to the website and sign
 up for access.  There is a link to the discord there, then join us in the #avorion channel where all the latest server information
 and discussion takes place.  Rules and the modpack are pinned in that channel.
