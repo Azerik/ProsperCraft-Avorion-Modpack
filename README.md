@@ -4,7 +4,7 @@ A spot to keep the modpack running on the ProsperCraft Avorion server.
 This is the modpack for the Prospercrft Avorion server.
 
 Mostly this is just some new factories, but there are a few other goodies as well.  Notably the mod to make claimable asteroids move.
-I beleive that the move asteroids and some of the other commands included here are not needed clientside, but lacking any testing I've included them.
+I believe that the move asteroids and some of the other commands included here are not needed clientside, but lacking any testing I've included them.
 
 To properly install this pack, you will need to unzip it into your Avorion folder.
 By default this is in Steam/Steamapps/common/Avorion  There is also a drive letter and other folders where you installed Steam itself.
