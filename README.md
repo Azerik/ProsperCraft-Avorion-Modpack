@@ -6,7 +6,7 @@ Open up Windoze Explorer or whatever file management you use.
 Go to the Avorion game directory (default Steam/steamapps/common/Avorion).
 Go into the "data" folder and delete the "scripts" folder.
 
-Fire up Steam and get to Avorion.
+Fire up Steam.
 Right click Avorion in the game list.
 Choose Properties.
 Go to the Local Files tab.  Choose Verify Files.
