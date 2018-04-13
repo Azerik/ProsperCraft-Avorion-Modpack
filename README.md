@@ -3,13 +3,16 @@
 This is our modpack.  Because of some file removals there is a new installation procedure.
 
 Open up Windoze Explorer or whatever file management you use.
+
 Go to the Avorion game directory (default Steam/steamapps/common/Avorion).
+
 Go into the "data" folder and delete the "scripts" folder.
 
 Fire up Steam.
 Right click Avorion in the game list.
 Choose Properties.
-Go to the Local Files tab.  Choose Verify Files.
+Go to the Local Files tab.  
+Choose Verify Files.
 
 This should get Steam to download new copies of your files for Avorion.  The total download with the binaries is only a few hundred megs, the scripts folder is barely anything.  My rural DSL does it so fast I barely notice it has happened.
 
